@@ -56,4 +56,5 @@ Note: These are just some examples. Other queries use the same syntaxes.
 
 ## Final note
 This was made some time ago, so is not perfect. If you have any update to do, just open a request. I'm down to any changes.
+If you enjoy it, give it a star ⭐
 Have fun!
