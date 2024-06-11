@@ -18,15 +18,21 @@ Ye, it clearly have better logs.
 
 You have 3 options:
 1. No logs (default option, no logs)
-  ![image](https://github.com/cheftheo/mongodb-fivem/assets/46166826/818f7173-44b4-4093-b643-ef98fad87686)
+
+![image](https://github.com/cheftheo/mongodb-fivem/assets/46166826/818f7173-44b4-4093-b643-ef98fad87686)
+
 Usage: `mongologger`
 
 2. Only types of logs (update, updateOne, updateMany, find, findOne, findMany, delete, deleteOne, deleteMany, count, insert, insertMany, insertOne)
-   ![image](https://github.com/cheftheo/mongodb-fivem/assets/46166826/095710c0-1311-46c9-ab61-6c432f58f91b)
+   
+![image](https://github.com/cheftheo/mongodb-fivem/assets/46166826/095710c0-1311-46c9-ab61-6c432f58f91b)
+   
 Usage: `mongologger`
 
 3. Full log (type + argument)
-   ![image](https://github.com/cheftheo/mongodb-fivem/assets/46166826/87ed22e5-f54e-4228-8b65-eb55f27ef143)
+   
+![image](https://github.com/cheftheo/mongodb-fivem/assets/46166826/87ed22e5-f54e-4228-8b65-eb55f27ef143)
+   
 Usage: `mongologger true`
 
 ### How to install? 
@@ -39,8 +45,11 @@ Note: don't forget to add it to `server.cfg`
 Methods: update, updateOne, updateMany, find, findOne, findMany, delete, deleteOne, deleteMany, count, insert, insertMany, insertOne
 
 Find:
+
 ![image](https://github.com/cheftheo/mongodb-fivem/assets/46166826/13cb8d51-c161-444f-a9d4-13c9f544c80b)
+
 Update: 
+
 ![image](https://github.com/cheftheo/mongodb-fivem/assets/46166826/4928d9b4-1893-4264-808a-c75dd561ca36)
 
 Note: These are just some examples. Other queries use the same syntaxes. 
